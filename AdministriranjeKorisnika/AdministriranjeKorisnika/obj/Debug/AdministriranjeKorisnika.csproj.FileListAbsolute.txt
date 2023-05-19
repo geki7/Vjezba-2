@@ -1,0 +1,14 @@
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\bin\Debug\AdministriranjeKorisnika.exe.config
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\bin\Debug\AdministriranjeKorisnika.exe
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\bin\Debug\AdministriranjeKorisnika.pdb
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.AdministiranjeKorisnika.resources
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.Properties.Resources.resources
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.exe
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.pdb
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\bin\Debug\AutentifikacijaLib.dll
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.CopyComplete
+C:\Users\ivang\Desktop\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.AdministratorsStatsForm.resources

@@ -1,0 +1,14 @@
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\bin\Debug\Autobusni Kolodvor 2.exe.config
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\bin\Debug\Autobusni Kolodvor 2.exe
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\bin\Debug\Autobusni Kolodvor 2.pdb
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\bin\Debug\AutobusniKolodvorLib2.dll
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\obj\Debug\Autobusni Kolodvor 2.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\obj\Debug\Autobusni Kolodvor 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\obj\Debug\Autobusni_Kolodvor_2.Form1.resources
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\obj\Debug\Autobusni_Kolodvor_2.Properties.Resources.resources
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\obj\Debug\Autobusni Kolodvor 2.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\obj\Debug\Autobusni Kolodvor 2.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\obj\Debug\Autobusni Kolodvor 2.csproj.CopyComplete
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\obj\Debug\Autobusni Kolodvor 2.exe
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\obj\Debug\Autobusni Kolodvor 2.pdb
+C:\Users\ivang\Desktop\Autobusni Kolodvor 2\Autobusni Kolodvor 2\obj\Debug\Autobusni_Kolodvor_2.kupiKartu.resources

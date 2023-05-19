@@ -1,0 +1,14 @@
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\bin\Debug\AutobusniKolodvorPopis.exe.config
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\bin\Debug\AutobusniKolodvorPopis.exe
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\bin\Debug\AutobusniKolodvorPopis.pdb
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\bin\Debug\AutobusniKolodvorLib.dll
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\obj\Debug\AutobusniKolodvorPopis.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\obj\Debug\AutobusniKolodvorPopis.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\obj\Debug\AutobusniKolodvorPopis.Form1.resources
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\obj\Debug\AutobusniKolodvorPopis.PopisAutobusnihLinija.resources
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\obj\Debug\AutobusniKolodvorPopis.Properties.Resources.resources
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\obj\Debug\AutobusniKolodvorPopis.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\obj\Debug\AutobusniKolodvorPopis.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\obj\Debug\AutobusniKolodvorPopis.csproj.CopyComplete
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\obj\Debug\AutobusniKolodvorPopis.exe
+C:\Users\ivang\Desktop\AutobusniKolodvorPopis\AutobusniKolodvorPopis\obj\Debug\AutobusniKolodvorPopis.pdb
