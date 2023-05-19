@@ -1,0 +1,14 @@
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\bin\Debug\PrijavaPrikazKorRacuna.exe.config
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\bin\Debug\PrijavaPrikazKorRacuna.exe
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\bin\Debug\PrijavaPrikazKorRacuna.pdb
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\bin\Debug\AutentifikacijaLib.dll
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\obj\Debug\PrijavaPrikazKorRacuna.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\obj\Debug\PrijavaPrikazKorRacuna.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\obj\Debug\PrijavaPrikazKorRacuna.Login.resources
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\obj\Debug\PrijavaPrikazKorRacuna.Properties.Resources.resources
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\obj\Debug\PrijavaPrikazKorRacuna.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\obj\Debug\PrijavaPrikazKorRacuna.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\obj\Debug\PrijavaPrikazKorRacuna.csproj.CopyComplete
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\obj\Debug\PrijavaPrikazKorRacuna.exe
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\obj\Debug\PrijavaPrikazKorRacuna.pdb
+C:\Users\ivang\Desktop\PrijavaPrikazKorRacuna\PrijavaPrikazKorRacuna\obj\Debug\PrijavaPrikazKorRacuna.Form2.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NogometnoPrvenstvo", "NogometnoPrvenstvo\NogometnoPrvenstvo.csproj", "{7877634F-7BE8-4BFC-B764-DBF9589EF815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7877634F-7BE8-4BFC-B764-DBF9589EF815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7877634F-7BE8-4BFC-B764-DBF9589EF815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7877634F-7BE8-4BFC-B764-DBF9589EF815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7877634F-7BE8-4BFC-B764-DBF9589EF815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B0AA49-0366-4FD8-8104-6D0DF1BAE643}
+	EndGlobalSection
+EndGlobal

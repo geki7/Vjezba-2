@@ -1,0 +1,15 @@
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\bin\Debug\NogometnoPrvenstvo.exe.config
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\bin\Debug\NogometnoPrvenstvo.exe
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\bin\Debug\NogometnoPrvenstvo.pdb
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\bin\Debug\PrvenstvoLib.dll
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.Properties.Resources.resources
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.TablicaRezultata.resources
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.csproj.CopyComplete
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.exe
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.pdb
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.DodajUtakmicuForm.resources
+C:\Users\ivang\Desktop\NogometnoPrvenstvo\NogometnoPrvenstvo\obj\Debug\NogometnoPrvenstvo.IzmjeniUtakmicuForm.resources
