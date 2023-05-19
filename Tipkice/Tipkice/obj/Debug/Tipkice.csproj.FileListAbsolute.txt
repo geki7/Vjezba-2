@@ -1,0 +1,11 @@
+C:\Users\ivang\Desktop\Tipkice\Tipkice\bin\Debug\Tipkice.exe.config
+C:\Users\ivang\Desktop\Tipkice\Tipkice\bin\Debug\Tipkice.exe
+C:\Users\ivang\Desktop\Tipkice\Tipkice\bin\Debug\Tipkice.pdb
+C:\Users\ivang\Desktop\Tipkice\Tipkice\obj\Debug\Tipkice.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\Tipkice\Tipkice\obj\Debug\Tipkice.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\Tipkice\Tipkice\obj\Debug\Tipkice.Form1.resources
+C:\Users\ivang\Desktop\Tipkice\Tipkice\obj\Debug\Tipkice.Properties.Resources.resources
+C:\Users\ivang\Desktop\Tipkice\Tipkice\obj\Debug\Tipkice.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\Tipkice\Tipkice\obj\Debug\Tipkice.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\Tipkice\Tipkice\obj\Debug\Tipkice.exe
+C:\Users\ivang\Desktop\Tipkice\Tipkice\obj\Debug\Tipkice.pdb
