@@ -1,0 +1,14 @@
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\bin\Debug\Filtriranje transakcije.exe.config
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\bin\Debug\Filtriranje transakcije.exe
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\bin\Debug\Filtriranje transakcije.pdb
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\bin\Debug\BankaLib.dll
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\obj\Debug\Filtriranje transakcije.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\obj\Debug\Filtriranje transakcije.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\obj\Debug\Filtriranje_transakcije.Form1.resources
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\obj\Debug\Filtriranje_transakcije.Properties.Resources.resources
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\obj\Debug\Filtriranje transakcije.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\obj\Debug\Filtriranje transakcije.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\obj\Debug\Filtriranje transakcije.csproj.CopyComplete
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\obj\Debug\Filtriranje transakcije.exe
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\obj\Debug\Filtriranje transakcije.pdb
+C:\Users\ivang\Desktop\Filtriranje transakcije\Filtriranje transakcije\obj\Debug\Filtriranje_transakcije.Detalji.resources

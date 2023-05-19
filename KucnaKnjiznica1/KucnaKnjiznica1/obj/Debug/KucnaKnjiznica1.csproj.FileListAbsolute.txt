@@ -1,0 +1,14 @@
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\bin\Debug\KucnaKnjiznica1.exe.config
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\bin\Debug\KucnaKnjiznica1.exe
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\bin\Debug\KucnaKnjiznica1.pdb
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\bin\Debug\KucnaKnjiznicaLib.dll
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.AssemblyReference.cache
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.Knjige.resources
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.Properties.Resources.resources
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.GenerateResource.cache
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.CopyComplete
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.exe
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.pdb
+C:\Users\ivang\Desktop\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.Form2.resources
